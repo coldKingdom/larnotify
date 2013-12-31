@@ -1,8 +1,8 @@
 {
-    "name": "coldKingdom/larnotify",
+    "name": "coldkingdom/larnotify",
     "description": "Notification Services for Laravel 4",
     "keywords": ["notification", "messages", "laravel"],
-    "homepage": "http://github.com/coldKingdom/larnotify",
+    "homepage": "http://github.com/coldkingdom/larnotify",
     "license": "MIT",
     "authors": [
         {
