@@ -1,5 +1,5 @@
 {
-    "name": "coldKingdom/larnotify",
+    "name": "jbruni/larnotify",
     "description": "Notification Services for Laravel 4",
     "keywords": ["notification", "messages", "laravel"],
     "homepage": "http://github.com/coldKingdom/larnotify",
